@@ -303,7 +303,6 @@
                 android:layout_marginTop="40dp"
                 android:layout_marginLeft="45dp"
                 android:fontFamily="@font/poppins_medium"
-                android:textColor="@color/gray"
                 android:text="Clean the 1st Floor"
                 android:textSize="12sp">
 
@@ -340,7 +339,6 @@
                 android:layout_marginTop="60dp"
                 android:layout_marginLeft="45dp"
                 android:fontFamily="@font/poppins_medium"
-                android:textColor="@color/gray"
                 android:text="Buy Groceries"
                 android:textSize="12sp">
 
